@@ -1,2 +1,3 @@
 ome other updatesting
 INSIDE feature1 ter updated
+INSIDE feature1 updated in feature branch same line
