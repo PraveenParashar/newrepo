@@ -1,2 +1,2 @@
 ome other updatesting
-INSIDE feature1 
+INSIDE feature1 updated in feature branch same line
